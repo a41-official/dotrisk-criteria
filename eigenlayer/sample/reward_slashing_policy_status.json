@@ -1,0 +1,20 @@
+{
+  "name": "example avs",
+  "category": [
+    "Social"
+  ],
+  "criteria": {
+    "slashing": {
+      "is_implemented": true,
+      "url": "https://www.docs.example-avs.com/slashing"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://www.docs.example-avs.com/reward"
+    }
+  },
+  "contact": {
+    "telegram": "https://t.me/example-avs",
+    "discord": "https://discord.gg/example-avs"
+  }
+}
