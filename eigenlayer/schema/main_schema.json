@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "category": {
+      "anyOf": [
+        { "type": "string" },
+        {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      ]
+    },
+    "criteria": {
+      "type": "object",
+      "properties": {
+        "slashing": {
+          "type": "object",
+          "properties": {
+            "is_implemented": {
+              "type": "boolean"
+            },
+            "url": {
+              "anyOf": [
+                { "type": "string", "format": "uri" },
+                { "type": "string", "maxLength": 0 }
+              ]
+            }
+          },
+          "required": ["is_implemented", "url"]
+        },
+        "reward": {
+          "type": "object",
+          "properties": {
+            "is_implemented": {
+              "type": "boolean"
+            },
+            "url": {
+              "anyOf": [
+                { "type": "string", "format": "uri" },
+                { "type": "string", "maxLength": 0 }
+              ]
+            }
+          },
+          "required": ["is_implemented", "url"]
+        }
+      }
+    },
+    "contact": {
+      "type": "object",
+      "properties": {
+        "telegram": {
+          "anyOf": [
+            { "type": "string", "format": "uri" },
+            { "type": "string", "maxLength": 0 }
+          ]
+        },
+        "discord": {
+          "anyOf": [
+            { "type": "string", "format": "uri" },
+            { "type": "string", "maxLength": 0 }
+          ]
+        }
+      }
+    }
+  },
+  "required": ["name", "category", "contact"]
+}

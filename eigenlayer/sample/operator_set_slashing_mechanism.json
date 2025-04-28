@@ -1,0 +1,84 @@
+{
+  "operator_sets": [
+    {
+      "id": 1,
+      "mechanisms": [
+        {
+          "mechanism": "DETERMINISTIC",
+          "metadata": [
+            {
+              "name": "SUITABILITY",
+              "is_aligned": false,
+              "source": "https://www.docs.example-avs.com/deterministic/suitability"
+            },
+            {
+              "name": "ENFORCEMENT",
+              "is_aligned": true,
+              "source": "https://www.docs.example-avs.com/deterministic/enforcement"
+            },
+            {
+              "name": "TRANSPARENCY",
+              "is_aligned": true,
+              "source": "https://www.docs.example-avs.com/deterministic/transparency"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "mechanisms": [
+        {
+          "mechanism": "CHALLENGE_PERIOD",
+          "metadata": [
+            {
+              "name": "SUITABILITY",
+              "is_aligned": false,
+              "source": "https://www.docs.example-avs.com/challenge_period/suitability"
+            },
+            {
+              "name": "ENFORCEMENT",
+              "is_aligned": false,
+              "source": "https://www.docs.example-avs.com/challenge_period/enforcement"
+            },
+            {
+              "name": "TRANSPARENCY",
+              "is_aligned": true,
+              "source": "https://www.docs.example-avs.com/challenge_period/transparency"
+            },
+            {
+              "name": "REWARDS",
+              "is_aligned": true,
+              "source": "https://www.docs.example-avs.com/challenge_period/rewards"
+            }
+          ]
+        },
+        {
+          "mechanism": "COMMITTEE_BASED",
+          "metadata": [
+            {
+              "name": "SUITABILITY",
+              "is_aligned": false,
+              "source": "https://www.docs.example-avs.com/committee_based/suitability"
+            },
+            {
+              "name": "ENFORCEMENT",
+              "is_aligned": false,
+              "source": "https://www.docs.example-avs.com/committee_based/enforcement"
+            },
+            {
+              "name": "TRANSPARENCY",
+              "is_aligned": false,
+              "source": "https://www.docs.example-avs.com/committee_based/transparency"
+            },
+            {
+              "name": "REWARDS",
+              "is_aligned": false,
+              "source": "https://www.docs.example-avs.com/committee_based/rewards"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

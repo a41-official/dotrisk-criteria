@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "operator_sets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "number"
+          },
+          "mechanisms": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "mechanism": {
+                  "type": "string",
+                  "enum": ["DETERMINISTIC", "CHALLENGE_PERIOD", "COMMITTEE_BASED"]
+                },
+                "metadata": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string",
+                        "enum": ["SUITABILITY", "ENFORCEMENT", "TRANSPARENCY", "REWARDS"]
+                      },
+                      "is_aligned": {
+                        "type": "boolean"
+                      },
+                      "source": {
+                        "type": "string",
+                        "format": "uri"
+                      }
+                    },
+                    "required": ["name", "is_aligned", "source"]
+                  }
+                }
+              },
+              "required": ["mechanism", "metadata"]
+            }
+          }
+        },
+        "required": ["id", "mechanisms"]
+      }
+    }
+  },
+  "required": ["operator_sets"]
+}
