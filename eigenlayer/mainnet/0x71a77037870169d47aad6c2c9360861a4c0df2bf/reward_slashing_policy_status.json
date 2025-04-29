@@ -3,7 +3,7 @@
   "category": ["Rollup"],
   "criteria": {
     "slashing": {
-      "is_implemented": true,
+      "is_implemented": false,
       "url": "https://docs.altlayer.io/altlayer-documentation/altlayer-facilitated-actively-validated-services/altlayer-mach-avs/operator-guide"
     },
     "reward": {
