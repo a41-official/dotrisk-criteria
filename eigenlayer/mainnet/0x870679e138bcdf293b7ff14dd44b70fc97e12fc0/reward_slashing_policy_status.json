@@ -1,0 +1,20 @@
+{
+  "name": "EigenDA",
+  "category": [
+    "DA"
+  ],
+  "criteria": {
+    "slashing": {
+      "is_implemented": false,
+      "url": "https://docs.eigenda.xyz/core-concepts/security/security-model"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://docs.eigenda.xyz/core-concepts/overview"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}

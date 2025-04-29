@@ -1,0 +1,18 @@
+{
+  "name": "Primev",
+  "category": [],
+  "criteria": {
+    "slashing": {
+      "is_implemented": true,
+      "url": "https://docs.primev.xyz/v1.1.0/concepts/rewards-and-slashing/rewards-and-slashing"
+    },
+    "reward": {
+      "is_implemented": true,
+      "url": "https://docs.primev.xyz/v1.1.0/concepts/rewards-and-slashing/rewards-and-slashing"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}

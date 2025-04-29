@@ -1,0 +1,18 @@
+{
+  "name": "Hyperlane",
+  "category": ["Interoperability"],
+  "criteria": {
+    "slashing": {
+      "is_implemented": false,
+      "url": "https://docs.hyperlane.xyz/docs/protocol/economic-security/hyperlane-avs"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://docs.hyperlane.xyz/docs/protocol/economic-security/hyperlane-avs"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}
