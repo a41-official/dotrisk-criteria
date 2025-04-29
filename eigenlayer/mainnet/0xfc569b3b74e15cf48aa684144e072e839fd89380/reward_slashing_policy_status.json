@@ -1,0 +1,18 @@
+{
+  "name": "Skate",
+  "category": [""],
+  "criteria": {
+    "slashing": {
+      "is_implemented": false,
+      "url": "https://docs.skatechain.org/operators/general/about#rewards-structure:~:text=Skate%20Preconfirmation%20AVS%20utilizes,the%20name%20Preconfirmation%20AVS"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://docs.skatechain.org/operators/general/about#rewards-structure:~:text=We%20are%20working%20on%20finalizing%20the%20rewards%20structure.%20Detailed%20will%20be%20discussed%20once%20our%20PoC%20for%20public%20go%20live."
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}

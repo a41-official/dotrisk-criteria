@@ -1,0 +1,18 @@
+{
+  "name": "GoPlus",
+  "category": [""],
+  "criteria": {
+    "slashing": {
+      "is_implemented": false,
+      "url": "https://whitepaper.gopluslabs.io/goplus-network/ecosystem-role/avs-operator"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://whitepaper.gopluslabs.io/goplus-network/ecosystem-role/avs-operator"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}

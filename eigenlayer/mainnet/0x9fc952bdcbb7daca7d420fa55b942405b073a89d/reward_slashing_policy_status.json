@@ -1,0 +1,18 @@
+{
+  "name": "Brevis Network",
+  "category": ["ZK", "Coprocessor"],
+  "criteria": {
+    "slashing": {
+      "is_implemented": false,
+      "url": "https://github.com/Zellic/publications/blob/master/Brevis%20-%20Zellic%20Audit%20Report.pdf"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://github.com/Zellic/publications/blob/master/Brevis%20-%20Zellic%20Audit%20Report.pdf"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Aos Network",
+  "category": [""],
+  "criteria": {
+    "slashing": {
+      "is_implemented": false,
+      "url": "https://docsend.com/view/8yyx73ntpr9n3eqc"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://docsend.com/view/8yyx73ntpr9n3eqc"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}

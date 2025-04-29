@@ -1,0 +1,18 @@
+{
+  "name": "zScore",
+  "category": [""],
+  "criteria": {
+    "slashing": {
+      "is_implemented": false,
+      "url": "https://docs.myzscore.ai/core/how-it-works#:~:text=zScore%20is%20a%20decentralized%20reputation%20system%20built%20as%20an%20Actively%20Validated%20Service%20(AVS)"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://docs.myzscore.ai/core/how-it-works#:~:text=zScore%20is%20a%20decentralized%20reputation%20system%20built%20as%20an%20Actively%20Validated%20Service%20(AVS)"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}
