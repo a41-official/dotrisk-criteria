@@ -1,0 +1,18 @@
+{
+  "name": "Xterio",
+  "category": ["Gaming"],
+  "criteria": {
+    "slashing": {
+      "is_implemented": false,
+      "url": "https://github.com/alt-research/mach-avs/blob/m2-dev/docs/RunOperator.md"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://github.com/alt-research/mach-avs/blob/m2-dev/docs/RunOperator.md"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}

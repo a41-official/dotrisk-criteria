@@ -1,0 +1,18 @@
+{
+  "name": "Precated",
+  "category": [],
+  "criteria": {
+    "slashing": {
+      "is_implemented": false,
+      "url": "https://docs.predicate.io/operators/run"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://docs.predicate.io/operators/run"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}

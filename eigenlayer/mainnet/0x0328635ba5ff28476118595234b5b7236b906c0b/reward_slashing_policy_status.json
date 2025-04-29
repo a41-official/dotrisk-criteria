@@ -1,0 +1,18 @@
+{
+  "name": "Brevis",
+  "category": [],
+  "criteria": {
+    "slashing": {
+      "is_implemented": false,
+      "url": "https://brevis.network/"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://brevis.network/"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Lagrange ZK Prover",
+  "category": ["ZK", "Coprocessor"],
+  "criteria": {
+    "slashing": {
+      "is_implemented": true,
+      "url": "https://github.com/Lagrange-Labs/docs/blob/main/docs/state-committees/slashing.md"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://github.com/Lagrange-Labs/docs"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}
