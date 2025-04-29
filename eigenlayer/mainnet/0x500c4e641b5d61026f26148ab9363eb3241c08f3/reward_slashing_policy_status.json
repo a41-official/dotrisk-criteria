@@ -1,6 +1,6 @@
 {
   "name": "Aos Network",
-  "category": [""],
+  "category": [],
   "criteria": {
     "slashing": {
       "is_implemented": false,

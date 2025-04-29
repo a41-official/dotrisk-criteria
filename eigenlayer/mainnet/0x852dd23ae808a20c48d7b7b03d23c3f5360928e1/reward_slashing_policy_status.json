@@ -1,6 +1,6 @@
 {
   "name": "Silence Laboratories",
-  "category": [""],
+  "category": [],
   "criteria": {
     "slashing": {
       "is_implemented": false,

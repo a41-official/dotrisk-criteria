@@ -1,6 +1,6 @@
 {
   "name": "zScore",
-  "category": [""],
+  "category": [],
   "criteria": {
     "slashing": {
       "is_implemented": false,

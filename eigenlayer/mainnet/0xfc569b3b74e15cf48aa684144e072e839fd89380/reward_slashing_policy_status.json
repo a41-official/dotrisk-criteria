@@ -1,6 +1,6 @@
 {
   "name": "Skate",
-  "category": [""],
+  "category": [],
   "criteria": {
     "slashing": {
       "is_implemented": false,
