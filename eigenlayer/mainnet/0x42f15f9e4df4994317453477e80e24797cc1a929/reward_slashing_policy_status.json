@@ -1,0 +1,18 @@
+{
+  "name": "Human Network",
+  "category": [],
+  "criteria": {
+    "slashing": {
+      "is_implemented": false,
+      "url": "https://docs.network.human.tech/overview/running-a-human-node"
+    },
+    "reward": {
+      "is_implemented": false,
+      "url": "https://docs.network.human.tech/usage-instructions/human-network-credits"
+    }
+  },
+  "contact": {
+    "telegram": "",
+    "discord": ""
+  }
+}
